@@ -1,2 +1,3 @@
 # jdb
-JSON Database
+A JSON Database Storage solution for prototyping.
+
